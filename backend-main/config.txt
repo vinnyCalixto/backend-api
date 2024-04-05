@@ -1,0 +1,9 @@
+Biblioteca instaladas
+npm install express mongoose cors dotenv bcrypt express-fileupload jimp uuid
+----------------------------------------------------------------------------------
+instalar nodemon
+npm install nodemon
+
+
+
+
